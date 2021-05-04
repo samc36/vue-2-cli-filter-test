@@ -3,38 +3,62 @@
     {
       "id": "1",
       "name": "Dashboard Summary",
-      "url": "/widget/dashboard",
-      "icon": "fa-tachometer"
+      "slug": "summary",
+      "url": "/widget/summary",
+      "icon": "calculator",
+      "table": "1",
+      "form": "",
+      "analytics": ""
     },
     {
       "id": "2",
       "name": "Policies",
+      "slug": "policies",
       "url": "/widget/policies",
-      "icon": "fa-plane"
-    },	
+      "icon": "pen-fill",
+      "table": "2",
+      "form": "",
+      "analytics": ""
+    },
     {
       "id": "3",
       "name": "Monitoring Calls",
-      "url": "/widget/monitoring_calls",
-      "icon": "fa-th-list"
-    },	
+      "slug": "monitoring-calls",
+      "url": "/widget/monitoring-calls",
+      "icon": "briefcase-fill",
+      "table": "3",
+      "form": "",
+      "analytics": ""
+    },
     {
       "id": "4",
       "name": "Onboardings",
+      "slug": "onboardings",
       "url": "/widget/onboardings",
-      "icon": "fa-th-list"
-    },	
+      "icon": "file-earmark-person",
+      "table": "4",
+      "form": "",
+      "analytics": ""
+    },
     {
       "id": "5",
       "name": "Monitoring Calls Summary",
-      "url": "/widget/monitring_calls_summary",
-      "icon": "fa-th-list"
+      "slug": "monitoring-calls-summary",
+      "url": "/widget/monitoring-calls-summary",
+      "icon": "file-earmark-text-fill",
+      "table": "5",
+      "form": "",
+      "analytics": ""
     },
     {
       "id": "6",
       "name": "Clients",
+      "slug": "clients",
       "url": "/widget/clients",
-      "icon": "fa-th-list"
+      "icon": "person-fill",
+      "table": "6",
+      "form": "",
+      "analytics": ""
     }
   ]
 }
