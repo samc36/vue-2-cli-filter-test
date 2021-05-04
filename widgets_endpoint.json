@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Dashboard Summary",
+      "url": "/widget/dashboard",
+      "icon": "fa-tachometer"
+    },
+    {
+      "id": "2",
+      "name": "Policies",
+      "url": "/widget/policies",
+      "icon": "fa-plane"
+    },	
+    {
+      "id": "3",
+      "name": "Monitoring Calls",
+      "url": "/widget/monitoring_calls",
+      "icon": "fa-th-list"
+    },	
+    {
+      "id": "4",
+      "name": "Onboardings",
+      "url": "/widget/onboardings",
+      "icon": "fa-th-list"
+    },	
+    {
+      "id": "5",
+      "name": "Monitoring Calls Summary",
+      "url": "/widget/monitring_calls_summary",
+      "icon": "fa-th-list"
+    },
+    {
+      "id": "6",
+      "name": "Clients",
+      "url": "/widget/clients",
+      "icon": "fa-th-list"
+    }
+  ]
+}
