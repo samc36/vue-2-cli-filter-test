@@ -1,51 +1,334 @@
 {
-  "name": "Onboarding Management",	
-  "columns": [
+  "data": [
     {
-      "name": "Created",
-      "order": "1",
-      "isSortable" :true	
+      "id": "1",
+      "name": "Dashboard Summary",
+      "slug": "summary",
+      "table": {
+        "id": "1",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
     },
     {
-      "name": "Manager",
-      "order": "2",
-      "isSortable" :true	
+      "id": "2",
+      "name": "Policies",
+      "slug": "policies",
+      "table": {
+        "id": "2",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
     },
     {
-      "name": "Principal",
-      "order": "3",
-      "isSortable" :true	
+      "id": "3",
+      "name": "Monitoring Calls",
+      "slug": "monitoring-calls",
+      "table": {
+        "id": "3",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
     },
     {
-      "name": "Client",
-      "order": "4",
-      "isSortable" :true	
+      "id": "4",
+      "name": "Onboarding Management",
+      "slug": "onboarding-management",
+      "table": {
+        "id": "4",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
     },
     {
-      "name": "Type",
-      "order": "5",
-      "isSortable" :true	
+      "id": "5",
+      "name": "Monitoring Calls Summary",
+      "slug": "monitoring-calls-summary",
+      "table": {
+        "id": "5",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
     },
     {
-      "name": "Progress",
-      "order": "6",
-      "isSortable" :false	
-    },
-    {
-      "name": "Logs",
-      "order": "7",
-      "isSortable" :false	
-    },
-    {
-      "name": "Status",
-      "order": "8",
-      "isSortable" :false
-    },
-    {
-      "name": "Action",
-      "order": "1",
-      "isSortable" :false	
-    },
-    
+      "id": "6",
+      "name": "Clients",
+      "slug": "clients",
+      "table": {
+        "id": "6",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "isSortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "isSortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "isSortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "isSortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "isSortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "isSortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "isSortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "isSortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "isSortable": false
+          }
+        ]
+      }
+    }
   ]
 }
