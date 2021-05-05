@@ -48,7 +48,7 @@ const store = new Vuex.Store({
     getWidgets({ commit }) {
       axios
         .get(
-          "https://samc36.github.io/vue-2-cli-filter-test/widgets_endpoint.json"
+          "https://samc36.github.io/vue-2-cli-filter-test/api/widgets_endpoint.json"
         )
         .then((response) => {
           commit("SET_Widgets", response.data);
@@ -58,7 +58,7 @@ const store = new Vuex.Store({
     getWidgetsContent({ commit }) {
       axios
         .get(
-          "https://samc36.github.io/vue-2-cli-filter-test/widgets_content.json"
+          "https://samc36.github.io/vue-2-cli-filter-test/api/widgets_content.json"
         )
         .then((response) => {
           commit("SET_WidgetsContent", response.data);
@@ -68,7 +68,7 @@ const store = new Vuex.Store({
     getWidgetTables({ commit }) {
       axios
         .get(
-          "https://samc36.github.io/vue-2-cli-filter-test/table_endpoint.json"
+          "https://samc36.github.io/vue-2-cli-filter-test/api/table_endpoint.json"
         )
         .then((response) => {
           commit("SET_Tables", response.data);
