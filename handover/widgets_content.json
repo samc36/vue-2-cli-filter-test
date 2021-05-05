@@ -1,0 +1,51 @@
+{
+  "name": "Onboarding Management",	
+  "columns": [
+    {
+      "name": "Created",
+      "order": "1",
+      "isSortable" :true	
+    },
+    {
+      "name": "Manager",
+      "order": "2",
+      "isSortable" :true	
+    },
+    {
+      "name": "Principal",
+      "order": "3",
+      "isSortable" :true	
+    },
+    {
+      "name": "Client",
+      "order": "4",
+      "isSortable" :true	
+    },
+    {
+      "name": "Type",
+      "order": "5",
+      "isSortable" :true	
+    },
+    {
+      "name": "Progress",
+      "order": "6",
+      "isSortable" :false	
+    },
+    {
+      "name": "Logs",
+      "order": "7",
+      "isSortable" :false	
+    },
+    {
+      "name": "Status",
+      "order": "8",
+      "isSortable" :false
+    },
+    {
+      "name": "Action",
+      "order": "1",
+      "isSortable" :false	
+    },
+    
+  ]
+}
