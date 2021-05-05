@@ -10,47 +10,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
@@ -65,47 +65,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
@@ -120,47 +120,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
@@ -175,47 +175,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
@@ -230,47 +230,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
@@ -285,47 +285,47 @@
           {
             "name": "Created",
             "order": "1",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Manager",
             "order": "2",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Principal",
             "order": "3",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Client",
             "order": "4",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Type",
             "order": "5",
-            "isSortable": true
+            "sortable": true
           },
           {
             "name": "Progress",
             "order": "6",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Logs",
             "order": "7",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Status",
             "order": "8",
-            "isSortable": false
+            "sortable": false
           },
           {
             "name": "Action",
             "order": "1",
-            "isSortable": false
+            "sortable": false
           }
         ]
       }
