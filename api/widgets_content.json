@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Dashboard Summary",
+      "slug": "summary",
+      "table": {
+        "id": "1",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Policies",
+      "slug": "policies",
+      "table": {
+        "id": "2",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Monitoring Calls",
+      "slug": "monitoring-calls",
+      "table": {
+        "id": "3",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Onboarding Management",
+      "slug": "onboarding-management",
+      "table": {
+        "id": "4",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Monitoring Calls Summary",
+      "slug": "monitoring-calls-summary",
+      "table": {
+        "id": "5",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "name": "Clients",
+      "slug": "clients",
+      "table": {
+        "id": "6",
+        "fields": [
+          {
+            "name": "Created",
+            "order": "1",
+            "sortable": true
+          },
+          {
+            "name": "Manager",
+            "order": "2",
+            "sortable": true
+          },
+          {
+            "name": "Principal",
+            "order": "3",
+            "sortable": true
+          },
+          {
+            "name": "Client",
+            "order": "4",
+            "sortable": true
+          },
+          {
+            "name": "Type",
+            "order": "5",
+            "sortable": true
+          },
+          {
+            "name": "Progress",
+            "order": "6",
+            "sortable": false
+          },
+          {
+            "name": "Logs",
+            "order": "7",
+            "sortable": false
+          },
+          {
+            "name": "Status",
+            "order": "8",
+            "sortable": false
+          },
+          {
+            "name": "Action",
+            "order": "1",
+            "sortable": false
+          }
+        ]
+      }
+    }
+  ]
+}

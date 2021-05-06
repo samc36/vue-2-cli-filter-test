@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Dashboard Summary",
+      "slug": "summary",
+      "url": "/widget/summary",
+      "icon": "calculator",
+      "table": "1",
+      "form": "",
+      "analytics": ""
+    },
+    {
+      "id": "2",
+      "name": "Policies",
+      "slug": "policies",
+      "url": "/widget/policies",
+      "icon": "pen-fill",
+      "table": "2",
+      "form": "",
+      "analytics": ""
+    },
+    {
+      "id": "3",
+      "name": "Monitoring Calls",
+      "slug": "monitoring-calls",
+      "url": "/widget/monitoring-calls",
+      "icon": "briefcase-fill",
+      "table": "3",
+      "form": "",
+      "analytics": ""
+    },
+    {
+      "id": "4",
+      "name": "Onboardings",
+      "slug": "onboardings",
+      "url": "/widget/onboardings",
+      "icon": "file-earmark-person",
+      "table": "4",
+      "form": "",
+      "analytics": ""
+    },
+    {
+      "id": "5",
+      "name": "Monitoring Calls Summary",
+      "slug": "monitoring-calls-summary",
+      "url": "/widget/monitoring-calls-summary",
+      "icon": "file-earmark-text-fill",
+      "table": "5",
+      "form": "",
+      "analytics": ""
+    },
+    {
+      "id": "6",
+      "name": "Clients",
+      "slug": "clients",
+      "url": "/widget/clients",
+      "icon": "person-fill",
+      "table": "6",
+      "form": "",
+      "analytics": ""
+    }
+  ]
+}
